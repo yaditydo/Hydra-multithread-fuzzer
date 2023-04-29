@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hydra-booster-script
  Ethical Hacking Password Cracking multithreaded script using Hydra
 # ! NOTICE: This Script is for testing purposes in lab scenarios only
@@ -15,4 +15,4 @@
 - Adaptation to a script required from a cybersecurity practice lab on PicoCTF!
 
 Disclaimer: For research/educational purposes + training environments only! 
->>>>>>> 3aca3bc40e7ce44dfb9f3b82a189618e37877343
+
